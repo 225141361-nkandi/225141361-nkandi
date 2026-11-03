@@ -1,5 +1,9 @@
 
 <div align="center">
+  <img src="./banner.png" width="100%" alt="Karoline's blue coding banner">
+</div>
+
+<div align="center">
 
 # Hey, I'm Karoline 🩵
 
@@ -45,6 +49,9 @@ A few things that make me, me:
 
 ## 🛠️ Technologies & Tools
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,linux,git,github,vscode" alt="C, Linux, Git, GitHub and VS Code">
+</p> 
 
 ---
 
